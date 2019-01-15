@@ -1,1 +1,1 @@
-# MachineLearning with Python 3
+# Machine Learning with Python 3
